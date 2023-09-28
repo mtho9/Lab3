@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * class myXMLValidator can take a IStack or Stack<String> and check if it is in valid XLM format
+ * class myXMLValidator can take a IStack or Stack<String> and check if it is in valid XML format
  * @author maxrogers
  * @version sep 27 2023
  */
