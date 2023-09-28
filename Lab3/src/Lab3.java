@@ -1,9 +1,14 @@
 
-public class Lab3 {
-
+ public class Lab3 {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        myXMLValidator validator = new myXMLValidator();
 
+        IStack stack = new myStack();
+
+        XMLValidatorTester tester = new XMLValidatorTester();
+
+        double precision = tester.precision(validator, stack);
+        System.out.println("Precision: " + precision);
     }
-
 }
+
