@@ -1,5 +1,4 @@
 # Lab3
-Tasks
 Mandy Ho
 - interfaces
 - lab3 main method
